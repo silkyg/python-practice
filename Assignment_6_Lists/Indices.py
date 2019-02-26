@@ -1,0 +1,1 @@
+#Program to print the indices of all the occurance of a given element in a given list
